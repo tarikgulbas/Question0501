@@ -7,6 +7,7 @@ public class Q0501 {
 	public static void main(String[] args) {
 		Scanner user = new Scanner(System.in);
 		
+		//Ask user to enter the digits
 		System.out.print("Enter an integer, the input ends if it is 0 : ");
 		int input = user.nextInt();
 		int countPoz =0;
